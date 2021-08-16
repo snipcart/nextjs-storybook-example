@@ -1,5 +1,5 @@
-import Head from 'next/head'
-
+import Head from "next/head";
+import Banner from "../stories/Banner.jsx";
 export default function Home() {
   return (
     <div className="container">
@@ -9,14 +9,23 @@ export default function Home() {
       </Head>
 
       <main>
+        <Banner variant="info">
+          <p>
+            This is an example of how we can use our components from Storybook
+            in a NextJS application. JSX components that are defined in
+            Storybook can be imported/exported like regular JSX components. If
+            yo need to import components from Storybook in external applications
+            then you should explore publishing a NPM package that contains the
+            relevant components.
+          </p>
+        </Banner>
+
         <h1 className="title">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
-
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
@@ -54,7 +63,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{" "}
           <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
@@ -205,5 +214,5 @@ export default function Home() {
         }
       `}</style>
     </div>
-  )
+  );
 }
