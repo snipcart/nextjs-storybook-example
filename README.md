@@ -2,7 +2,7 @@
 
 ![Storybook React tutorial Snipcart](https://snipcart.com/media/205943/storybookog.png)
 
-This post/tutorial focuses on UI developwith Storybook.
+This post/tutorial focuses on UI development with Storybook.
 
 What is covered:
 
