@@ -1,4 +1,4 @@
-#Getting Started with Storybook: React Component Library Example
+# Getting Started with Storybook: React Component Library Example
 
 ![Storybook React tutorial Snipcart](https://snipcart.com/media/205943/storybookog.png)
 
