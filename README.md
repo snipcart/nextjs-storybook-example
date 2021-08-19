@@ -1,3 +1,23 @@
+#Getting Started with Storybook: React Component Library Example
+
+![Storybook React tutorial Snipcart](https://snipcart.com/media/205943/storybookog.png)
+
+This post/tutorial focuses on UI developwith Storybook.
+
+What is covered:
+
+- What Storybook is?
+- How can it save you valuable time when working with components?
+- How to set up a Storybook instance that is co-located with a React application?
+- How to create the first instance of a component along with its story?
+- How do various prop values affect the component’s appearance and functionality?
+
+
+
+-> Follow the tutorial [here](https://snipcart.com/blog/storybook-react-tutorial-example).
+
+-> Try the demo [here](https://nextjs-storybook-example-4nh7fvdd0-m0nica.vercel.app/).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
