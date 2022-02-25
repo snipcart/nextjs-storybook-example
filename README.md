@@ -1,6 +1,6 @@
 # Getting Started with Storybook: React Component Library Example
 
-![Storybook React tutorial Snipcart](https://snipcart.com/media/205943/storybookog.png)
+![Storybook React tutorial Snipcart](https://www.datocms-assets.com/48401/1645800013-storybook-og.png)
 
 This post/tutorial focuses on UI development with Storybook.
 
