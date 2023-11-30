@@ -16,7 +16,7 @@ export default function Home() {
             Storybook can be imported/exported like regular JSX components. If
             you need to import components from Storybook in external
             applications then you should explore publishing a NPM package that
-            contains the relevant .
+            contains the relevant components xtra xtra xtra.
           </p>
         </Banner>
 
